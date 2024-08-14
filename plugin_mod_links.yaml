@@ -1,0 +1,79 @@
+# Forge mods
+mods:
+  - name: BiomesOfPlenty.jar
+    link:
+  - name: DeepDarkRegrowth.jar
+    link:
+  - name: EquipmentCompare.jar
+    link:
+  - name: Iceberg.jar
+    link:
+  - name: Quark.jar
+    link:
+  - name: TerraBlender.jar
+    link:
+  - name: Towns-and-Towers.jar
+    link:
+  - name: Voidscape.jar
+    link:
+  - name: Xaeros_Minimap.jar
+    link:
+  - name: Zeta.jar
+    link:
+  - name: alexsmobs.jar
+    link:
+  - name: born_in_chaos.jar
+    link:
+  - name: caelus.jar
+    link:
+  - name: citadel.jar
+    link:
+  - name: create.jar
+    link:
+  - name: cristellib.jar
+    link:
+  - name: curios-forge.jar
+    link:
+  - name: deeperdarker.jar
+    link:
+  - name: elytraslot.jar
+    link:
+  - name: enderpack-merged.jar
+    link:
+  - name: geckolib.jar
+    link:
+  - name: idas.jar
+    link:
+  - name: integrated_api.jar
+    link:
+  - name: jei.jar
+    link:
+  - name: monolib.jar
+    link:
+  - name: moonlight.jar
+    link:
+  - name: octolib.jar
+    link:
+  - name: relics.jar
+    link:
+  - name: supplementaries.jar
+    link:
+  - name: voicechat.jar
+    link:
+
+# Bukkit plugins
+plugins:
+  - name: Chunky.jar
+    link: https://cdn.modrinth.com/data/fALzjamp/versions/6ENKPUbu/Chunky-1.4.10.jar
+  - name: GriefPrevention.jar
+    link: https://cdn.modrinth.com/data/O4o4mKaq/versions/RQv9pNC6/GriefPrevention.jar
+  - name: SkinsRestorer.jar
+    link: https://ci.codemc.io/job/SkinsRestorer/job/SkinsRestorer/lastSuccessfulBuild/artifact/build/libs/SkinsRestorer.jar
+  - name: LoginSecurity.jar
+    link: https://ci.codemc.io/view/Author/job/lenis0012/job/LoginSecurity/140/artifact/target/LoginSecurity-Spigot-3.3.0.jar
+  - name: LuckPerms.jar
+    link: https://download.luckperms.net/1554/bukkit/loader/LuckPerms-Bukkit-5.4.139.jar
+  - name: eBackup.jar
+    link: https://mc-plugins.net/_cdn/plugins/bukkit-spigot/eBackup_1.3.1.jar
+  - name: TabTPS.jar
+    link: https://cdn.modrinth.com/data/cUhi3iB2/versions/hBGWrGgD/tabtps-spigot-1.3.18.jar
